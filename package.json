@@ -1,0 +1,18 @@
+{
+  "name": "lvlxp_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Github.com/Kurama250",
+  "license": "SEE LICENSE IN LICENSE",
+  "description": "A Discord bot for managing XP and leveling system and stats server !",
+  "dependencies": {
+    "@discordjs/rest": "^2.5.1",
+    "discord-api-types": "^0.38.13",
+    "discord.js": "^14.21.0",
+    "os": "^0.1.2",
+    "sqlite3": "^5.1.7"
+  }
+}

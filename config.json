@@ -1,0 +1,17 @@
+{
+  "token": "YOUR_TOKEN",
+  "clientId": "CLIENT_ID",
+  "guildId": "GUILD_ID",
+  "rolesByLevel": {
+    "25": "ROLE_ID_01",
+    "50": "ROLE_ID_02",
+    "YOUR_CHOICE_LEVEL01": "ROLE_ID_03",
+    "YOUR_CHOICE_LEVEL02": "ROLE_ID_04",
+    "YOUR_CHOICE_LEVEL03": "ROLE_ID_05",
+    "YOUR_CHOICE_LEVEL04": "ROLE_ID_06",
+    "YOUR_CHOICE_LEVEL05": "ROLE_ID_07",
+    "YOUR_CHOICE_LEVEL06": "ROLE_ID_08",
+    "YOUR_CHOICE_LEVEL07": "ROLE_ID_09"
+  },
+  "updateInterval": 60000
+}
