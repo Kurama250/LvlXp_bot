@@ -26,7 +26,7 @@
 - Run command :
 
 ```shell script
-bash <(curl -s https://raw.githubusercontent.com/LvlXp_bot/main/setup.sh)
+bash <(curl -s https://raw.githubusercontent.com/Kurama250/LvlXp_bot/main/setup.sh)
 ```
 <h5>B) Manual installer</h5>
 
